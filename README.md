@@ -6,7 +6,7 @@ Yazılım geliştirme dünyasında modern çözümler üretmeye odaklanmış, 4.
 ---
 
 ### 💼 Deneyim
-**Software Intern | Doruk Yazılım** *(Temmuz 2024 – Eylül 2024)*
+**Software Intern | Doruk Yazılım** *(Temmuz 2025 – Eylül 2025)*
 * ERP sistemleri (Logo Netsis) üzerinde kurulum, güncelleme ve teknik destek süreçlerini yönettim.
 * VPN ve AnyDesk kullanarak uzaktan sorun giderme, veri yönetimi ve müşteri iletişimi konularında deneyim kazandım.
 * İş süreci otomasyonu ve kurumsal yazılım iş akışları üzerine derinlemesine bilgi edindim.
